@@ -1,3 +1,18 @@
+my notes:
+
+Maps:
+- https://github.com/icerockdev/moko-maps#samples
+
+KMP Resources
+- https://github.com/JetBrains/compose-multiplatform/blob/master/examples/README.md
+
+Voyager Framework
+- https://github.com/adrielcafe/voyager
+
+Moko Framework
+- https://github.com/icerockdev/moko-mvvm
+
+
 [![official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) mobile application
@@ -69,20 +84,6 @@ Open the project in Android Studio and switch the view from **Android** to **Pro
 <img src="readme_images/open_project_view.png" height="300px">
 
 Your Compose Multiplatform project includes 3 modules:
-
-my notes:
-
-Maps:
- - https://github.com/icerockdev/moko-maps#samples
-
-KMP Resources
-  - https://github.com/JetBrains/compose-multiplatform/blob/master/examples/README.md
-
-Voyager Framework
-  - https://github.com/adrielcafe/voyager
-
-Moko Framework
-  - https://github.com/icerockdev/moko-mvvm
 
 ### shared
 
