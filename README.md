@@ -77,7 +77,12 @@ Maps:
 
 KMP Resources
   - https://github.com/JetBrains/compose-multiplatform/blob/master/examples/README.md
-  - 
+
+Voyager Framework
+  - https://github.com/adrielcafe/voyager
+
+Moko Framework
+  - https://github.com/icerockdev/moko-mvvm
 
 ### shared
 
