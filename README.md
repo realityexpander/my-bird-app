@@ -70,6 +70,15 @@ Open the project in Android Studio and switch the view from **Android** to **Pro
 
 Your Compose Multiplatform project includes 3 modules:
 
+my notes:
+
+Maps:
+ - https://github.com/icerockdev/moko-maps#samples
+
+KMP Resources
+  - https://github.com/JetBrains/compose-multiplatform/blob/master/examples/README.md
+  - 
+
 ### shared
 
 This is a Kotlin module that contains the logic common for both Android and iOS applications, that is, the code you share between platforms.
